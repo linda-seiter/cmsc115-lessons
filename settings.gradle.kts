@@ -1,4 +1,4 @@
-rootProject.name = "JetBrains Academy Java course template"
+rootProject.name = "CMSC 115 Lessons"
 
 pluginManagement {
     repositories {

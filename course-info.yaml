@@ -1,10 +1,10 @@
 type: marketplace
-title: JetBrains Academy Java course template
+title: UMGC CMSC 115 Lessons
 language: English
-summary: Here you can put the course description. You can use HTML tags inside the
-  description.
+summary: UMGC CMSC 115 Weekly Code Along Lessons.
 programming_language: Java
+solutions_hidden: true
 content:
-  - courseSection
+  - Week1
 environment_settings:
   jvm_language_level: JDK_17

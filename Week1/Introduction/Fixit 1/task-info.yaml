@@ -1,0 +1,11 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: The method should be spelled <code>System.out.printline</code>
+    is_correct: false
+  - text: A semicolon is missing on line 4.
+    is_correct: true
+files:
+  - name: src/SampleError.java
+    visible: true
+local_check: true

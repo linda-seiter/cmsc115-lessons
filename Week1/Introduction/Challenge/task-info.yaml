@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/AboutMe.java
+    visible: true
+  - name: test/AboutMeTest.java
+    visible: false
+    propagatable: false

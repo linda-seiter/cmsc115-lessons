@@ -1,0 +1,11 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "The class block is missing a closing curly brace } on line 5"
+    is_correct: true
+  - text: The word "error" is misspelled on line 3.
+    is_correct: false
+files:
+  - name: src/SampleError.java
+    visible: true
+local_check: true

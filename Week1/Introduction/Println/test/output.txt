@@ -1,0 +1,3 @@
+Java was initially named Oak.
+Java is an object-oriented language.
+Java is platform independent and portable.
